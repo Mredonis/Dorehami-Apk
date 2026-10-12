@@ -11,7 +11,7 @@ A Local Multiplayer Party Game made with Unity & C#
 
 
 <p align="center">
-  <a href="https://github.com/Mredonis/Dorehami-Apk/releases">
+  <a href="https://github.com/Mredonis/Dorehami-Apk/releases/download/v1.0.0/Dorehami.apk">
     <img
       src="https://img.shields.io/badge/⬇%20DOWNLOAD%20APK-7C3AED?style=for-the-badge&logo=android&logoColor=white&labelColor=18181B"
       alt="Download Dorehami APK"
