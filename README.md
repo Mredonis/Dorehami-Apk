@@ -49,7 +49,7 @@ A Local Multiplayer Party Game made with Unity & C#
 # 🎬 Gameplay
 
 <p align="center">
-<img width="400" height="778" alt="Image" src="https://github.com/user-attachments/assets/30b50528-65cb-4ae4-aa3c-dc5793e9e65e" /></p>
+<img src="assets/GamePlay.gif" alt="Dorehami Game Cover" width="600">
 
 
 ---
@@ -71,7 +71,7 @@ Features:
 
 
 <p align="center">
-  <img width="400" height="778" alt="Image" src="https://github.com/user-attachments/assets/0ea7de5e-cb18-4f97-8b5f-266f8cf77c02" />
+ <img src="assets/Name3.gif" alt="Dorehami Game Cover" width="600">
 </p>
 
 
@@ -91,7 +91,7 @@ Features:
 
 
 <p align="center">
- <img width="400" height="778" alt="Image" src="https://github.com/user-attachments/assets/40edbbef-360b-430b-8152-489f9c8efd75" />
+ <img src="assets/Imposter.gif" alt="Dorehami Game Cover" width="600">
 </p>
 
 
@@ -114,7 +114,7 @@ Features:
 
 
 <p align="center">
-  <img width="400" height="778" alt="Image" src="https://github.com/user-attachments/assets/c73263dc-bb31-4702-9f18-ea636a3f2b9b" />
+  <img src="assets/Kasny.gif" alt="Dorehami Game Cover" width="600">
 </p>
 
 
@@ -249,7 +249,7 @@ Assets/
 ## Results
 
 <p align="center">
-<img width="343" height="680" alt="Image" src="https://github.com/user-attachments/assets/da8e8818-3cf6-450e-a2cb-c39bf816f768" />
+<img src="assets/bb.png" alt="Dorehami Game Cover" width="600">
 </p>
 
 
