@@ -1,5 +1,5 @@
 <p align="center">
- <img src="./assets/cover.png" width="600" alt="Dorehami Game">
+ <img src="assets/cover.png" alt="Dorehami Game Cover" width="600">
 </p>
 
 <h1 align="center">🎉 دورهمی | Dorehami</h1>
