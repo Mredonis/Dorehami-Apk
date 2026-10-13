@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/32e0856f-5cec-46c4-a0f4-f7cafcf22c0f" />
+ <img src="./assets/cover.png" width="600" alt="Dorehami Game">
 </p>
 
 <h1 align="center">🎉 دورهمی | Dorehami</h1>
